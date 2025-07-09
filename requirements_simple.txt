@@ -1,8 +1,0 @@
-streamlit
-pandas
-bcrypt
-stripe
-openai
-fpdf
-plotly
-st-aggrid
