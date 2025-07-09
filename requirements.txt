@@ -1,0 +1,8 @@
+streamlit==1.24.1
+pandas==2.0.3
+bcrypt==4.0.1
+stripe==6.63.0
+openai==0.27.8
+fpdf==1.7.2
+plotly==5.15.0
+st-aggrid==0.4.5
