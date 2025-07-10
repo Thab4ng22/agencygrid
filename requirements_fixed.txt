@@ -1,0 +1,6 @@
+streamlit
+pandas
+openai
+stripe
+plotly
+fpdf2
